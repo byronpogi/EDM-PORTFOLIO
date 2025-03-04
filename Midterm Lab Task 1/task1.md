@@ -3,10 +3,6 @@
   
 ## step by step process
 
-Here’s a step-by-step process for Steps 1 to 3 of data cleaning and preparation using Excel:
-
-Here’s a step-by-step process for Steps 1 to 3 of data cleaning and preparation using Excel:
-
 ### Step 1: Remove Duplicates
 1. **Open your Excel file** containing the raw data.
 2. Select the range of data or entire sheet you want to clean.
