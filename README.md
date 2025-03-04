@@ -12,4 +12,4 @@ College: City College of Angeles (BSIS)
 -Elementary: Sapang bato Elementary School
 
 ## My Projects
-Midterm Lab Task :[Data Cleaning and Preparation usg Excel] (Midterm%20Lab%20Task%201/task1.md)
+Midterm Lab Task :[Data Cleaning and Preparation using excel](Midterm%20Lab%20Task%201/task1.md)
