@@ -1,3 +1,5 @@
+![484494600_1397456998096891_3259542752332690455_n](https://github.com/user-attachments/assets/97e44fef-42ed-499d-8673-5a1ac853cbda)
+
 # EDM-PORTFOLIO
 This is my repository
 
