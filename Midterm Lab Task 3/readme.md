@@ -72,3 +72,7 @@ I resize the charts to make them more balanced, and I adjust the column widths s
 I make sure the titles are bold and adjust colors to differentiate the charts and tables, making it all visually appealing.
 Step 8: Finalizing Everything
 
+## Dashboard
+
+![1000019548 (1)](https://github.com/user-attachments/assets/e05a968c-0c07-44f9-a930-ed2d5edfa6da)
+
