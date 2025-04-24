@@ -21,6 +21,10 @@ Midterm Lab Task 2:[Data Cleaning and Preparation using power query](https://git
 Midterm Lab Task 3:[Creating PIVOT TABLE and DASHBOARD](https://github.com/byronpogi/EDM-PORTFOLIO/blob/main/Midterm%20Lab%20Task%203/readme.md)
 
 ## Finals tasks
+Finals Lab Task 1: [My SQL Basics](https://byronpogi.github.io/Finals-Lab-task-1/)
 
+Finals Lab Task 2: [MySQL Database Creation](https://byronpogi.github.io/Finals-Lab-Task-2/)
+
+Finals Lab Task 3: [Table Manipulation](https://byronpogi.github.io/Finals-Lab-Task-3/)
 
 
