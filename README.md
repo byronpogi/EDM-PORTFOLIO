@@ -27,4 +27,6 @@ Finals Lab Task 2: [MySQL Database Creation](https://byronpogi.github.io/Finals-
 
 Finals Lab Task 3: [Table Manipulation](https://byronpogi.github.io/Finals-Lab-Task-3/)
 
+Finals Lab Task 4: [Using MYSQL Clause](https://byronpogi.github.io/Final-Lab-Task-3.1/)
+
 
